@@ -1,5 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<LingoProject TargetLanguage="es" xml:lang="es" SourceLanguage="en-us" FileFormatVersion="6" CreatedInVersion="12">
+<LingoProject TargetLanguage="es" xml:lang="es" SourceLanguage="en-us" FileFormatVersion="6" CreatedInVersion="12" SourceControlBound="true" SourceControlProviderType="Git">
+    <ProjectFile Source="Target/4th floor plan 11-15-2012.svg" Target="Target/4th floor plan 11-15-2012.svg" />
     <ProjectFile Source="Target/VASQIP.svg" Target="Target/VASQIP.svg" />
     <ProjectFile Source="Target/Statistics.txt" Target="Target/Statistics.txt" />
 </LingoProject>
